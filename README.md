@@ -1,7 +1,6 @@
-# All-About-CakePhp
-- Step By Step Guide To the CakePhp
+# Guide To CakePHP 
 
-# CakePhp Code Guide 
+Find below few code snapets and useful links for cakePHP
 
 1- Select List Code For CakePhp 
 
@@ -26,7 +25,6 @@ echo $this->Form->checkbox('usertype', array(
    'value' => 'Y',
   'hiddenField' => 'N'
 ));
-
 
 
 4- Ajax CakePhp Contact Form 
