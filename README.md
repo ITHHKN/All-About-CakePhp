@@ -1,4 +1,4 @@
-# Guide To CakePHP 
+# Guide To CakePHP -  code snapets  & Useful Links 
 
 Find below few code snapets and useful links for cakePHP :
 
